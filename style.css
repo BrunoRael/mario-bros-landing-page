@@ -141,8 +141,9 @@ p {
 }
 
 /* Quando passar o mouse */
-.formulario-fale-conosco:hover {
-    left: 0;
+.formulario-fale-conosco.aberto {
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 input {
