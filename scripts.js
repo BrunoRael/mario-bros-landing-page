@@ -3,14 +3,12 @@ const form = document.querySelector (".formulario-fale-conosco")
 const mascara = document.querySelector (".mascara-form")
 
 function mostrarForm(){
-    form.style.left = "50%"
-    form.style.transform = "translateX(-50%)"
+    form.classList.add("aberto")
     mascara.style.visibility = "visible"
 }
 
 function esconderMascara(){
-    form.style.left = "-20%"
-    form.style.transform = "translateX(0%)"
+    form.classList.remove("aberto")
     mascara.style.visibility = "hidden"
 }
 
