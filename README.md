@@ -33,3 +33,8 @@ Praticar conceitos fundamentais de desenvolvimento front-end, incluindo:
 - Manipulação de layout responsivo
 - Integração com API externa
 - Estruturação de projeto para portfólio
+
+---
+
+🔗 Acesse o projeto online: https://brunorael.github.io/mario-bros-landing-page/
+
