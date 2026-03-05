@@ -4,7 +4,6 @@ Landing page temática inspirada no universo Mario Bros, desenvolvida com foco e
 
 🔗 Projeto desenvolvido para demonstrar domínio de HTML, CSS e JavaScript, além de integração com serviço externo para envio de formulário.
 
----
 
 ## 🚀 Funcionalidades
 
@@ -14,7 +13,6 @@ Landing page temática inspirada no universo Mario Bros, desenvolvida com foco e
 - Estrutura semântica em HTML5
 - Organização de arquivos em boas práticas
 
----
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -22,7 +20,6 @@ Landing page temática inspirada no universo Mario Bros, desenvolvida com foco e
 - CSS3
 - JavaScript
 
----
 
 ## 🎯 Objetivo do Projeto
 
@@ -34,7 +31,11 @@ Praticar conceitos fundamentais de desenvolvimento front-end, incluindo:
 - Integração com API externa
 - Estruturação de projeto para portfólio
 
----
 
 🔗 Acesse o projeto online: https://brunorael.github.io/mario-bros-landing-page/
+
+<img src="./IMG/pagina.jpeg">
+<img src="./IMG/Formulario.preenchido.jpeg">
+<img src="./IMG/Formulario.enviado.jpeg">
+<img src="./IMG/pedido.entregue.jpeg">
 
