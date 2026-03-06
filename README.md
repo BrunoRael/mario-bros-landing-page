@@ -34,8 +34,8 @@ Praticar conceitos fundamentais de desenvolvimento front-end, incluindo:
 
 🔗 Acesse o projeto online: https://brunorael.github.io/mario-bros-landing-page/
 
-<img src="./IMG/pagina.jpeg">
-<img src="./IMG/Formulario.preenchido.jpeg">
-<img src="./IMG/Formulario.enviado.jpeg">
-<img src="./IMG/pedido.entregue.jpeg">
+<img src="./assets/pagina.jpeg">
+<img src="./assets/Formulario.preenchido.jpeg">
+<img src="./assets/Formulario.enviado.jpeg">
+<img src="./assets/pedido.entregue.jpeg">
 
